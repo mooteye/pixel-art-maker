@@ -12,4 +12,4 @@ of canvas they'd like to work with.
 
 #Have fun!
 
-LINK TO WEBSITE: https:mooteye.github.io/pixel-art-maker/
+LINK TO WEBSITE: https://mooteye.github.io/pixel-art-maker/
